@@ -3,7 +3,7 @@ body {
     background: #fafafa;
     color: #141414;
     margin-top: 5rem;
-    font-size: 13px;
+    font-size: 12px;
   }
   
   h1, h2, h3, h4, h5, h6 {
@@ -19,7 +19,7 @@ body {
   }
   
   .site-header .navbar-nav .nav-link {
-    color: #8482a1;
+    color: #3930be;
   }
   
   .site-header .navbar-nav .nav-link:hover {
