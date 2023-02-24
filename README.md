@@ -1,2 +1,2 @@
 # SargeBlog
-This is blog web application built with django framework
+This is a blog web application built with django framework
