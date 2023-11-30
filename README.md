@@ -15,9 +15,10 @@ Password Reset: Forgot your password? No worries! Reset it through a secure proc
 Make sure you have the following installed:
 
 Python 3.x
+
 Django
-[Other dependencies...]
-Installation
+
+### Installation
 Clone the repository:
 
 ```bash
